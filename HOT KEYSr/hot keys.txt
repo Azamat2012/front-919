@@ -1,0 +1,11 @@
+Ctrl+Kattalashtiradi
+Ctrl-kichiklashtirish
+Ctrl+saqlash
+ALT+SHift/win+Probel=tilni ozgarish
+CTRL+C=Nusxalsh
+Ctrl+Joylash 
+ALT+Tab=Oynalari almashtirish
+Win+D  =rabochi stol
+Ctrl+A=Hamasini tanlash
+Ctrl+Z =QILINGAN ishlarni orqaga qaytirish
+ALT+F4=Ochirish yokichiqib ketishin
